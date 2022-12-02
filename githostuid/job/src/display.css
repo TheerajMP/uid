@@ -1,0 +1,8 @@
+table,th,td,thead,tbody{
+    border:2px solid palevioletred;
+    color: aliceblue;
+}
+Link{
+    text-decoration: none;
+  
+}
